@@ -75,7 +75,7 @@ The gateway's worker fan-out isn't just *inspired by* OPEA's architecture — it
 ### Option A — Docker (matches the challenge's one-click requirement)
 
 ```bash
-git clone <this-repo-url> netgenie && cd netgenie
+git clone https://github.com/ITU-AI-ML-in-5G-Challenge/Qbits-NetGenie.git
 ./deploy.sh
 ```
 
